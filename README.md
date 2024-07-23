@@ -47,7 +47,7 @@ G
 
 The Queries are
 
-```
+````
 -- Task1
 SELECT rating FROM film
 GROUP BY rating;

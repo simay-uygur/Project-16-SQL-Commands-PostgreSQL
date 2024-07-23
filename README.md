@@ -40,13 +40,12 @@ G
 ```
 
 4. 
-````
+```
 44 60
 
 ```
 
-
-The Queries are
+## Query code
 
 ```
 -- Task1
